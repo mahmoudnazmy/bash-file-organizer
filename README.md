@@ -42,7 +42,7 @@ This project is part of my journey to become a SOC Analyst and practice Linux + 
 Clone the repository:
 
 ```bash
-git clone https://github.com/mahmoudnazmy/file-organizer.git
+git clone https://github.com/mahmoudnazmy/bash-file-organizer.git
 ```
 
 Go to the project folder:

@@ -91,10 +91,12 @@ Run the script:
 
 ---
 
-# 🤝 Connect With Me
+# 🖥 Compatibility
 
-LinkedIn: https://www.linkedin.com/in/mahmoud-n
+This script is designed for Linux systems.
 
----
+Windows users can run it using:
+- WSL (Windows Subsystem for Linux)
+- Git Bash
 
 ⭐ Still learning step by step, but happy to build real things while learning.
